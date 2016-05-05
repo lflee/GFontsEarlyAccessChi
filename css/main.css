@@ -1,0 +1,26 @@
+.cwTeXKai {
+	font-family: 'cwTeXKai', serif;
+}
+
+.cwtexyen {
+	font-family: 'cwtexyen', serif;
+}
+
+.cwtexfangsong {
+	font-family: 'cwtexfangsong', serif;
+}
+
+.cwtexming {
+	font-family: 'cwtexming', serif;
+}
+
+.cwtexhei {
+	font-family: 'cwtexhei', serif;
+}
+
+header {
+	align-self: center;
+	align-items: center;
+	align-content: center;
+  text-shadow: 1px 1px yellow;
+}
